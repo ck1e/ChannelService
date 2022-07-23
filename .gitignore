@@ -1,0 +1,5 @@
+/.idea
+/venv
+/ordersOnlineUpdates/creds/client-secret.json
+/ordersOnlineUpdates/creds/service-account.json
+/ordersOnlineUpdates/creds/token.json
