@@ -39,8 +39,8 @@ SPREADSHEET_ID = '1Tx-XArnNyxezVXyRChkToMrBYQM7b1euj3iedXkr-rg'
 RANGE_NAME = 'Лист1'
 
 # Telegram API token bot and user\chat ID
-TG_BOT_TOKEN = '5561315703:AAEOByOhwV4pWEGBY8IxYSPU7A2-kytU9oE'
-TG_TARGET_ID = '1203903996'
+TG_BOT_TOKEN = 'XXX'
+TG_TARGET_ID = 'XXX'
 
 # Creates a default Background Scheduler
 scheduler = BackgroundScheduler()
